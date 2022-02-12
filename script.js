@@ -1,4 +1,4 @@
 function foo()
 {
-    console.log('fooo');
+    console.log('To jest nowa treść funkcji');
 }
